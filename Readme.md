@@ -1,4 +1,3 @@
-Readme
 This tool is thought to convert games to compressed archive CHD using chdman.exe.
 
 It is using to convert Sega Dreamcast, Sega CD,PC Engine CD,...
